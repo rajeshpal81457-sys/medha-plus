@@ -1,7 +1,7 @@
 
 
 /* Animation for page transitions */
-.page-enter {
+/* .page-enter {
   opacity: 0;
   transform: translateY(20px);
 }
@@ -20,4 +20,5 @@
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 300ms, transform 300ms;
-}
+} */
+
